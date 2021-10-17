@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jhtaung\\ws\\repos\\DatingApp\\API\\API.csproj": {}
+    "E:\\WS\\repos\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jhtaung\\ws\\repos\\DatingApp\\API\\API.csproj": {
+    "E:\\WS\\repos\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhtaung\\ws\\repos\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "E:\\WS\\repos\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\jhtaung\\ws\\repos\\DatingApp\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\jhtaung\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhtaung\\ws\\repos\\DatingApp\\API\\obj\\",
+        "projectPath": "E:\\WS\\repos\\DatingApp\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\jhtau\\.nuget\\packages\\",
+        "outputPath": "E:\\WS\\repos\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jhtaung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jhtau\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\jhtaung\\Documents\\UiPath\\_feed": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
