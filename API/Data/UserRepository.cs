@@ -12,8 +12,8 @@ namespace API.Data
 {
     public class UserRepository : IUserRepository
     {
-        public DataContext _context { get; }
-        public IMapper _mapper { get; }
+        private readonly DataContext _context;
+        private readonly IMapper _mapper;
         public UserRepository(DataContext context, IMapper mapper)
         {
             _mapper = mapper;
