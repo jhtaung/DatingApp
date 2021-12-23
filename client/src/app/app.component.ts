@@ -23,7 +23,7 @@ export class AppComponent implements OnInit {
     if (storedUser === undefined || storedUser === null || storedUser === 'undefined') {
       this.accountService.setCurrentUser(undefined);
     } else {
-      console.log(typeof storedUser);
+      // console.log(typeof storedUser);
       const user: User = JSON.parse(storedUser);
       this.accountService.setCurrentUser(user);
     }
